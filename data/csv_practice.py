@@ -1,3 +1,12 @@
+#    Self Reflection Questions
+# 1. It's more efficient to do this whole process in Python as it can handle
+#    thousands of rows at once automatically, however it may be easier for some
+#    to create their own tables on Excel with smaller datasets if they don't
+#    know how to code and want to see them visually.
+# 2. Append mode makes it simple for a business to add new sale information to
+#    the end of the log file, or even keep track if when employees clock in and
+#    out of their shifts.
+#    Used AI to find a fix for Exercise 8.
 import csv
 from datetime import datetime
 
