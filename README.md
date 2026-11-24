@@ -3,4 +3,4 @@
 Jose Bautista-Chavez
 
 To run this project:
-python.csv_practice.py
+python csv_practice.py
